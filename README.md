@@ -72,13 +72,12 @@ Hybrid recommender using content-based + collaborative filtering – **Python, S
 
 ### 💬 Ask Me About
 
-| 💡 Topic                   | 🔧 Tech & Concepts                        |
-|---------------------------|------------------------------------------|
-| Web Development           | HTML, CSS, JavaScript, React, Next.js    |
-| Backend/API               | Node.js, Express.js, MongoDB, REST       |
-| DevOps/Deployment         | Git, GitHub, Vercel, Netlify             |
-| Tools & Workflow          | VS Code, Postman, Figma, Canva           |
-| Collaboration & Freelance | Open Source, Project Ideas, Freelancing  |
+| 💡 Topic                  | 🔧 Tech & Concepts                         |
+|---------------------------|------------------------------------------   |
+| Web Development           | HTML, CSS, JavaScript, React, Next.js       |
+| Backend/API               | Node.js, Express.js, MongoDB, MySQL, REST   |
+| Programming Languages     | Python, C, Java(Basic)                      |
+| Tools & Workflow          | VS Code, Postman, Figma, Canva              |
 
 
 ---
