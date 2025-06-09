@@ -44,11 +44,11 @@ Secure password manager with user auth, real-time alerts via React Toastify – 
 [![CheckIt – Task Planner](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/CheckIt&mode=light&style=horizontal)](https://github.com/AyazManiar/CheckIt)  
 Dynamic, responsive to-do app with inline editing and local storage – **React.js, Tailwind CSS**
 
-[![Spotify Clone – Music Streaming](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/Spotify&mode=dark&style=horizontal)](https://github.com/AyazManiar/Spotify)  
-Built a responsive music player with playback controls, dynamic playlists – **HTML5, CSS3, JavaScript, Fetch API**
-
-[![FunShine – E-commerce Website](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/Fun-Shine&mode=light&style=horizontal)](https://github.com/AyazManiar/Fun-Shine)  
+[![FunShine – E-commerce Website](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/Fun-Shine&mode=dark&style=horizontal)](https://github.com/AyazManiar/Fun-Shine)  
 Online store for party supplies with admin panel, cart, user login – **HTML, CSS, JavaScript, PHP, MySQL**
+
+[![Spotify Clone – Music Streaming](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/Spotify&mode=light&style=horizontal)](https://github.com/AyazManiar/Spotify)  
+Built a responsive music player with playback controls, dynamic playlists – **HTML5, CSS3, JavaScript, Fetch API**
 
 [![ML Product Recommendation](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/ML-Product-Recommendation&mode=dark&style=horizontal)](https://github.com/AyazManiar/ML-Product-Recommendation)  
 Hybrid recommender using content-based + collaborative filtering – **Python, Scikit-learn, TF-IDF, HTML**
