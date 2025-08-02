@@ -27,7 +27,7 @@
 
 ## 🌐 My Portfolio
 
-Check out my personal portfolio to see more of my work, blogs, and experiments:
+Check out my personal portfolio:
 
 [![Portfolio](https://img.shields.io/badge/maniarayaz.vercel.app-Visit%20Now-0f172a?style=for-the-badge&logo=vercel&logoColor=white&color=111827)](https://maniarayaz.vercel.app/)
 
