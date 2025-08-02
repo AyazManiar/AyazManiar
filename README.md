@@ -10,7 +10,7 @@
 
 <div>
 <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🔗 Connect with me</h3>
-  <a href="https://www.linkedin.com/in/ayaz-maniar-213820302/">
+  <a href="https://www.linkedin.com/in/ayazmaniar/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width="40"> 
   </a>
   &nbsp; &nbsp; &nbsp;
@@ -22,6 +22,14 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="40">
   </a>
 </div>
+
+---
+
+## 🌐 My Portfolio
+
+Check out my personal portfolio to see more of my work, blogs, and experiments:
+
+[![Portfolio](https://img.shields.io/badge/maniarayaz.vercel.app-Visit%20Now-0f172a?style=for-the-badge&logo=vercel&logoColor=white&color=111827)](https://maniarayaz.vercel.app/)
 
 ---
 
