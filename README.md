@@ -6,7 +6,7 @@
 </h1>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&vCenter=true&width=860&lines=Full-Stack+Developer+%C2%B7+Next.js+%C2%B7+React.js+%C2%B7+Express.js+%C2%B7+MongoDB+%C2%B7+MySQL;ML+%C2%B7+DL+%C2%B7+Tensorflow+%C2%B7+Scikit+Learn+%C2%B7++Numpy+%C2%B7+Pandas;Data+Visualization+%C2%B7+Plotly+%C2%B7+Seaborn+%C2%B7+PowerBI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&vCenter=true&width=860&lines=Full-Stack+Developer+%C2%B7+React.js+%C2%B7+Express.js+%C2%B7+PHP+%C2%B7+MongoDB+%C2%B7+MySQL;ML+%C2%B7+DL+%C2%B7+Tensorflow+%C2%B7+Scikit+Learn+%C2%B7++Numpy+%C2%B7+Pandas;Data+Visualization+%C2%B7+Plotly+%C2%B7+Seaborn+%C2%B7+PowerBI)](https://git.io/typing-svg)
 
 <div>
 <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🔗 Connect with me</h3>
@@ -45,6 +45,11 @@ const ayaz = {
 
 
 ## 🚀 Projects
+[![Skill Swap Platform](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/Skill-Swap-Platform&mode=light&style=horizontal)](https://github.com/AyazManiar/Skill-Swap-Platform)  
+A full-stack platform to connect users for mutual skill exchange. Features user auth, search, swap requests, feedback system, and admin dashboard – **React.js, Tailwind CSS, Flask, SQLite, Gemini API**
+
+[![AI Ticket Assistance](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/AI-Ticket-Assistance&mode=dark&style=horizontal)](https://github.com/AyazManiar/AI-Ticket-Assistance)  
+AI-powered support assistant for handling user tickets and queries with automation and classification – **Python, OpenAI/Gemini API, Flask (assumed)** *(Add exact stack if different)*
 
 [![Locksy – MERN Password Manager](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/Locksy&mode=dark&style=horizontal)](https://github.com/AyazManiar/Locksy)  
 Secure password manager with user auth, real-time alerts via React Toastify – **MongoDB, Express.js, React.js, Node.js**
