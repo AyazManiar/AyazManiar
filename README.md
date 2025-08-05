@@ -51,17 +51,17 @@ A full-stack platform to connect users for mutual skill exchange. Features user 
 [![AI Ticket Assistance](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/AI-Ticket-Assistance&mode=dark&style=horizontal)](https://github.com/AyazManiar/AI-Ticket-Assistance)  
 AI-powered support assistant for handling user tickets and queries with automation and classification – **Python, OpenAI/Gemini API, Flask (assumed)** *(Add exact stack if different)*
 
-[![Locksy – MERN Password Manager](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/Locksy&mode=dark&style=horizontal)](https://github.com/AyazManiar/Locksy)  
-Secure password manager with user auth, real-time alerts via React Toastify – **MongoDB, Express.js, React.js, Node.js**
-
-[![CheckIt – Task Planner](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/CheckIt&mode=light&style=horizontal)](https://github.com/AyazManiar/CheckIt)  
-Dynamic, responsive to-do app with inline editing and local storage – **React.js, Tailwind CSS**
-
 [![FunShine – E-commerce Website](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/Fun-Shine&mode=dark&style=horizontal)](https://github.com/AyazManiar/Fun-Shine)  
 Online store for party supplies with admin panel, cart, user login – **HTML, CSS, JavaScript, PHP, MySQL**
 
 [![Spotify Clone – Music Streaming](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/Spotify&mode=light&style=horizontal)](https://github.com/AyazManiar/Spotify)  
 Built a responsive music player with playback controls, dynamic playlists – **HTML5, CSS3, JavaScript, Fetch API**
+
+[![Locksy – MERN Password Manager](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/Locksy&mode=dark&style=horizontal)](https://github.com/AyazManiar/Locksy)  
+Secure password manager with user auth, real-time alerts via React Toastify – **MongoDB, Express.js, React.js, Node.js**
+
+[![CheckIt – Task Planner](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/CheckIt&mode=light&style=horizontal)](https://github.com/AyazManiar/CheckIt)  
+Dynamic, responsive to-do app with inline editing and local storage – **React.js, Tailwind CSS**
 
 [![ML Product Recommendation](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/ML-Product-Recommendation&mode=dark&style=horizontal)](https://github.com/AyazManiar/ML-Product-Recommendation)  
 Hybrid recommender using content-based + collaborative filtering – **Python, Scikit-learn, TF-IDF, HTML**
