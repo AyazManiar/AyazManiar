@@ -74,13 +74,6 @@ Hybrid recommender using content-based + collaborative filtering – **Python, S
 
 ---
 
-<!-- Learning -->
-
-<h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🌱 Currently Learning</h3>
-<p><strong>TypeScript, GraphQL, PostgreSQL</strong></p>
-
----
-
 <!-- Ask me about -->
 
 ### 💬 Ask Me About
