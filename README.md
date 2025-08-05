@@ -46,10 +46,10 @@ const ayaz = {
 
 ## 🚀 Projects
 [![Skill Swap Platform](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/Skill-Swap-Platform&mode=light&style=horizontal)](https://github.com/AyazManiar/Skill-Swap-Platform)  
-A full-stack platform to connect users for mutual skill exchange. Features user auth, search, swap requests, feedback system, and admin dashboard – **React.js, Tailwind CSS, Flask, SQLite, Gemini API**
+A full-stack platform to connect users for mutual skill exchange. Features user auth, search, swap requests, feedback system, and admin dashboard – **MongoDB, Express.js, React.js, Node.js**
 
 [![AI Ticket Assistance](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/AI-Ticket-Assistance&mode=dark&style=horizontal)](https://github.com/AyazManiar/AI-Ticket-Assistance)  
-AI-powered support assistant for handling user tickets and queries with automation and classification – **Python, OpenAI/Gemini API, Flask (assumed)** *(Add exact stack if different)*
+AI-powered support assistant for handling user tickets and queries with automation and classification – **MERN Stack, Gemini, Inngest, NodeMailer(MailTrap)**
 
 [![FunShine – E-commerce Website](https://svg.bookmark.style/api?url=https://github.com/AyazManiar/Fun-Shine&mode=dark&style=horizontal)](https://github.com/AyazManiar/Fun-Shine)  
 Online store for party supplies with admin panel, cart, user login – **HTML, CSS, JavaScript, PHP, MySQL**
