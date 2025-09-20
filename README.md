@@ -67,10 +67,6 @@ Dynamic, responsive to-do app with inline editing and local storage – **React.
 Hybrid recommender using content-based + collaborative filtering – **Python, Scikit-learn, TF-IDF, HTML**
 
 
-<!-- Top Languages -->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyazManiar&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ---
 
